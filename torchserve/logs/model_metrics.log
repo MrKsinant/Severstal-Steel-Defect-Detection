@@ -1,0 +1,2 @@
+2020-08-30 19:57:21,041 - PredictionTime.Milliseconds:19122.95|#ModelName:severstal_detectron2,Level:Model|#hostname:godel.lan,requestID:55c80613-c1e2-40b4-9ab2-0ccd11ef7583,timestamp:1598810241
+2020-08-30 19:58:33,931 - PredictionTime.Milliseconds:4828.9|#ModelName:severstal_detectron2,Level:Model|#hostname:godel.lan,requestID:0b580bae-5354-48ea-a0bb-5874b8f08f92,timestamp:1598810313
