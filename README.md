@@ -19,6 +19,17 @@ In this repository, you will find the following files and folders:
 
 *Nota Bene:* Due to the weight of the files they contain, the folders *data* and *models*, mentioned in the Jupyter notebooks, are not provided here (as well as *detectron2_model.pth* and *severstal_detectron2.mar* files in *torchserve* folder).
 
+Below, you can find some illustrations of the defect detection performed by the trained model:
+
+<p align="center">
+  <img src="graphs/inference_random_10.png" width="600" />
+  <img src="graphs/inference_random_2.png" width="600" />
+</p>
+<p align="center">
+  <img src="graphs/inference_random_5.png" width="600" />
+  <img src="graphs/inference_random_6.png" width="600" />
+</p>
+
 <p align="center">
   <img src="images/severstal_logo.png" width="150" />
 </p>
