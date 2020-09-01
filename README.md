@@ -22,12 +22,12 @@ In this repository, you will find the following files and folders:
 Below, you can find some illustrations of the defect detection performed by the trained model:
 
 <p align="center">
-  <img src="graphs/inference_random_10.png" width="400" />
-  <img src="graphs/inference_random_2.png" width="400" />
+  <img src="graphs/inference_random_10.png" width="500" />
+  <img src="graphs/inference_random_2.png" width="500" />
 </p>
 <p align="center">
-  <img src="graphs/inference_random_5.png" width="400" />
-  <img src="graphs/inference_random_6.png" width="400" />
+  <img src="graphs/inference_random_5.png" width="500" />
+  <img src="graphs/inference_random_6.png" width="500" />
 </p>
 
 <p align="center">
