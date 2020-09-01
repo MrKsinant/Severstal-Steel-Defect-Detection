@@ -21,7 +21,13 @@ In this repository, you will find the following files and folders:
 
 <p align="center">
   <img src="images/severstal_logo.png" width="150" />
+</p>
+
+<p align="center">
+  <img src="images/detectron2_logo.png" width="250" />
+  <img src="images/pytorch_logo.png" width="250" />
+</p>
+
+<p align="center">
   <img src="images/kaggle_logo.png" width="150" />
-  <img src="images/detectron2_logo.png" width="150" />
-  <img src="images/pytorch_logo.png" width="150" />
 </p>
